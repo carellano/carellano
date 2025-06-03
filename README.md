@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Carlos Arellano, Software Engineer 
 - 👀 I'm interested in Development, SRE, DevOs, Docker, Architecture, Backend, Design Patterns
-- 🌱 I'm currently learning, kubernetes, reactjs
+- 🌱 I'm currently learning, kubernetes
 - 📫 How to contact me@carellano.dev
 <!--- 💞️ I’m looking to collaborate on ...
 --->
